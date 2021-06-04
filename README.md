@@ -21,9 +21,9 @@ Durante 6 clases, se introdujeron los conceptos básicos de la programación y l
 
 Se crearon, además, 2 guías de ejercicios integradores.
 
-- [Guía Integradora 1 - Clases 1-3]()
+- [Guía Integradora 1 - Clases 1-3](https://colab.research.google.com/github/lbiedma/IntroProgramacionFCEUNC/blob/main/Guía%20Integradora%201.ipynb)
 
-- [Guía Integradora 2 - Clases 4-6]()
+- [Guía Integradora 2 - Clases 4-6](https://colab.research.google.com/github/lbiedma/IntroProgramacionFCEUNC/blob/main/Guía%20Integradora%202.ipynb)
 
 Pueden realizar preguntas, comentarios y sugerencias usando la pestaña de Issues del repositorio: https://github.com/lbiedma/IntroProgramacionFCEUNC/issues.
 
