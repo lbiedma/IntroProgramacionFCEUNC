@@ -5,25 +5,32 @@ Este repositorio tiene el contenido brindado en el Módulo 2 - Unidad 0 - Introd
 
 Durante 6 clases, se introdujeron los conceptos básicos de la programación y la programación en Python. Es posible seguir este curso sin instalar nada accediendo a los links de Google Colaboratory.
 
-- [Clase 1 - Elementos de Programación y Herramienta Principal](https://colab.research.google.com/github/lbiedma/IntroProgramacionFCEUNC/blob/main/Clase%201.ipynb)
+## Clases
+Pueden acceder a las clases de este repositorio utilizando Google Colaboratory (y correr el código que está ahí dentro sin instalar nada) siguiendo los links de abajo.
 
-- [Clase 2 - Tipos de Datos, Control de Flujo y Funciones](https://colab.research.google.com/github/lbiedma/IntroProgramacionFCEUNC/blob/main/Clase%202.ipynb)
+- [Clase 1 - Elementos de Programación y Herramienta Principal](https://colab.research.google.com/github/lbiedma/IntroProgramacionFCEUNC/blob/main/clases/Clase%201.ipynb)
 
-- [Clase 3 - Estructuras de Datos, Operaciones y Casos de Uso](https://colab.research.google.com/github/lbiedma/IntroProgramacionFCEUNC/blob/main/Clase%203.ipynb)
+- [Clase 2 - Tipos de Datos, Control de Flujo y Funciones](https://colab.research.google.com/github/lbiedma/IntroProgramacionFCEUNC/blob/main/clases/Clase%202.ipynb)
 
-- [Clase 4 - Uso de Librerías en Python](https://colab.research.google.com/github/lbiedma/IntroProgramacionFCEUNC/blob/main/Clase%204.ipynb)
+- [Clase 3 - Estructuras de Datos, Operaciones y Casos de Uso](https://colab.research.google.com/github/lbiedma/IntroProgramacionFCEUNC/blob/main/clases/Clase%203.ipynb)
 
-- [Tutoriales de Instalación: GIT y Anaconda](https://colab.research.google.com/github/lbiedma/IntroProgramacionFCEUNC/blob/main/Tutoriales%20-%20GIT%20y%20Anaconda.ipynb)
+- [Clase 4 - Uso de Librerías en Python](https://colab.research.google.com/github/lbiedma/IntroProgramacionFCEUNC/blob/main/clases/Clase%204.ipynb)
 
-- [Clase 5 - Repositorios, Entorno de Programación, Errores Comunes](https://colab.research.google.com/github/lbiedma/IntroProgramacionFCEUNC/blob/main/Clase%205.ipynb)
+- [Tutoriales de Instalación: GIT y Anaconda](https://colab.research.google.com/github/lbiedma/IntroProgramacionFCEUNC/blob/main/clases/Tutoriales%20-%20GIT%20y%20Anaconda.ipynb)
 
-- [Clase 6 - El Proceso de Data Science, Pandas para Analizar Datos y Librerías de Visualización](https://colab.research.google.com/github/lbiedma/IntroProgramacionFCEUNC/blob/main/Clase%206.ipynb)
+- [Clase 5 - Repositorios, Entorno de Programación, Errores Comunes](https://colab.research.google.com/github/lbiedma/IntroProgramacionFCEUNC/blob/main/clases/Clase%205.ipynb)
+
+- [Clase 6 - El Proceso de Data Science, Pandas para Analizar Datos y Librerías de Visualización](https://colab.research.google.com/github/lbiedma/IntroProgramacionFCEUNC/blob/main/clases/Clase%206.ipynb)
+
+## Guías de Ejercicio
 
 Se crearon, además, 2 guías de ejercicios integradores.
 
-- [Guía Integradora 1 - Clases 1-3](https://colab.research.google.com/github/lbiedma/IntroProgramacionFCEUNC/blob/main/Guía%20Integradora%201.ipynb)
+- [Guía Integradora 1 - Clases 1-3](https://colab.research.google.com/github/lbiedma/IntroProgramacionFCEUNC/blob/main/guias/Guía%20Integradora%201.ipynb)
 
-- [Guía Integradora 2 - Clases 4-6](https://colab.research.google.com/github/lbiedma/IntroProgramacionFCEUNC/blob/main/Guía%20Integradora%202.ipynb)
+- [Guía Integradora 2 - Clases 4-6](https://colab.research.google.com/github/lbiedma/IntroProgramacionFCEUNC/blob/main/guias/Guía%20Integradora%202.ipynb)
+
+## Reportar algún problema
 
 Pueden realizar preguntas, comentarios y sugerencias usando la pestaña de Issues del repositorio: https://github.com/lbiedma/IntroProgramacionFCEUNC/issues.
 
